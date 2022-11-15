@@ -1,0 +1,16 @@
+h1 {
+    color:turquoise
+}
+
+*{
+    background-image: url("./Src/wallpaperbetter.com_1920x1080.jpg");
+}
+
+.img1, .img2, .img3, .img4 {
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.pass, .email {
+    color: aqua;
+}
